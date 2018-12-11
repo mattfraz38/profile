@@ -1,0 +1,38 @@
+body {
+  color: black;
+  background-color: rgb(238, 231, 229);
+  font-family: sans-serif;
+}
+
+div {
+  border: solid;
+  border-radius: 5px;
+  border-color: grey;
+  background-color: rgb(180, 175, 174);
+  box-shadow:2px 2px 3px black;
+  margin: 50px 450px 30px 450px;
+  padding: 15px;
+}
+
+#logo {
+  width: 350px;
+  border-radius: 50%
+}
+
+.img-standard {
+  width: 150px;
+  border-radius: 5px;
+  border: solid 1px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list-inline {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.text-center {
+  text-align: center;
+}
