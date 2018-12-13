@@ -10,8 +10,16 @@ div {
   border-color: grey;
   background-color: rgb(180, 175, 174);
   box-shadow:2px 2px 3px black;
-  margin: 50px 450px 30px 450px;
+  /*margin: 50px 450px 30px 450px;*/
+  width: 800px;
+  margin: auto;
   padding: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #000083FF;
+  font-weight: bold;
 }
 
 #logo {
@@ -26,12 +34,18 @@ div {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, .6);
 }
 
 .list-inline {
   display: inline-block;
   padding: 0px 20px;
 }
+
+.text-center {
+  text-align: center;
+}
+
 
 .text-center {
   text-align: center;
