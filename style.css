@@ -5,18 +5,35 @@ body {
 }
 
 div {
+    background-color: rgb(180, 175, 174);
+    box-shadow: rgba(0, 0, 0, 0.6) 2px 2px 3px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-image: initial;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: grey;
+    padding: 15px;
+}
+
+
+/*div {
   border: solid;
   border-width: 1px;
   border-radius: 5px;
   border-color: grey;
   background-color: rgb(180, 175, 174);
-  box-shadow:2px 2px 3px black;
+  box-shadow:2px 2px 3px black;*/
   /*margin: 50px 450px 30px 450px;*/
-  width: 800px;
+/*  width: 800px;
   margin: auto;
   box-shadow:2px 2px 3px rgba(0, 0, 0, .6);
   padding: 15px;
-}
+}*/
 
 a {
   text-decoration: none;
