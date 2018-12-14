@@ -20,21 +20,6 @@ div {
     padding: 15px;
 }
 
-
-/*div {
-  border: solid;
-  border-width: 1px;
-  border-radius: 5px;
-  border-color: grey;
-  background-color: rgb(180, 175, 174);
-  box-shadow:2px 2px 3px black;*/
-  /*margin: 50px 450px 30px 450px;*/
-/*  width: 800px;
-  margin: auto;
-  box-shadow:2px 2px 3px rgba(0, 0, 0, .6);
-  padding: 15px;
-}*/
-
 a {
   text-decoration: none;
   color: #000083FF;
@@ -54,6 +39,10 @@ a {
   margin-left: auto;
   margin-right: auto;
   box-shadow: 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+.inner-div-card {
+  background-color: turquoise;
 }
 
 .list-inline {
